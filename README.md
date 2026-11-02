@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/e60fbb9a-8608-49e5-b51d-6327ed2e58dc
-
 # Tugas Praktikum 6 DPBO - Java Swing GUI: Game Development (Flappy Bird)
 
 ## 📌 Janji
