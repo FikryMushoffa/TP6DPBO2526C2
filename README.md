@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e60fbb9a-8608-49e5-b51d-6327ed2e58dc
+
 # Tugas Praktikum 6 DPBO - Java Swing GUI: Game Development (Flappy Bird)
 
 ## 📌 Janji
@@ -146,4 +150,6 @@ flowchart TD
 ## 📹 Dokumentasi Program
 Seluruh rekaman demonstrasi jalannya program (mulai dari Main Menu, gameplay lompat dan melewati rintangan, perolehan skor, audio BGM/SFX, Game Over, hingga fungsi restart) dapat disaksikan langsung melalui file video berikut:
 
-- 🎬 **[`Dokumentasi/VideoSaatProgramDijalankan.mp4`](Dokumentasi/VideoSaatProgramDijalankan.mp4)**
+https://github.com/user-attachments/assets/d9712dfd-f766-4d7b-8f34-5310d62ea253
+
+
